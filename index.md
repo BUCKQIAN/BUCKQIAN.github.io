@@ -4,7 +4,7 @@
 
 
 ------------
-### - 最近更新:字典程序 Chinese dictionary [[米小仔工作室:历代软件]](https://www.luogu.com.cn/paste/fvj54l8n)
+### - 最近更新:字典程序 Chinese dictionary [[米小仔工作室:软件产品]](Software)
 
 
 ------------
