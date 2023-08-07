@@ -5,7 +5,7 @@
 
 ### 工作室所有软件：
 ### [第一个软件:人生模拟器[正式版1.0][更新时间:2020/8/25 - 2022/11/12]](https://mixiaozai.lanzoum.com/Life-Simulator)
-### [第二个软件:字典程序[测试版0.41][更新时间:2022/11/4 - NOW ]](Chinese-dictionary)
+### [第二个软件:字典程序[测试版0.41][更新时间:2022/11/4 - NOW ]](Chinese_dictionary)
 ### [第二个[分支]软件:字典程序Python Addition(测试版:alpha0.2)](https://www.luogu.com.cn/paste/udwnpy5t)
 ### [第三个软件:学校纸牌游戏[正式版1.0][更新时间:2022/7/5 AND 2023/7/5]](https://www.luogu.com.cn/paste/k2wz03xt)
 ------------
