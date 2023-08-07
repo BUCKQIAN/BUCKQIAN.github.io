@@ -5,13 +5,13 @@
 ------------
 ### - 最近更新:字典程序 Chinese dictionary [[米小仔工作室:软件产品]](Software)
 
-
 ------------
 ### 米小仔工作室快讯：[暂无]()
 
 ------------
+### 关于[米小仔工作室团队成员......](About_us)
 
-
+------------
 
 ##### 同志们！再不写代码就没有时间写代码了！  
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——Buck Qian的名言
