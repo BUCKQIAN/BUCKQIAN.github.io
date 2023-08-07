@@ -1,6 +1,5 @@
-### 字典程序下载页面[Chinese dictionary download page]:
+## 字典程序下载页面[Chinese dictionary download page]:
 
-------------
  ```
 感谢您使用字典程序！
 Thank you for using the Chinese dictionary program!
