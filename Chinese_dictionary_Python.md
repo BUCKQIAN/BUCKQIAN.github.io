@@ -1,7 +1,7 @@
 # 字典程序(Py Addition)
 
 #### 更新时间：2023/7/20
-#### （除了比C++版本UI差，其他很厉害！————Buck Qian）
+#### （除了比C++版本UI差，其他都很厉害！————Buck Qian）
 
 ```python
 import os
