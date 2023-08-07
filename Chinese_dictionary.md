@@ -9,7 +9,7 @@ Thank you for using the Chinese dictionary program!
 ------------
 
 ### [下载最新版本](https://mixiaozai.lanzouq.com/iVli014avwze)  
-### [字典程序更新日志]()
+### [字典程序更新日志](Chinese_dictionary_update)
 ### [返回米小仔工作室:软件产品](Software)
 ------------
 
