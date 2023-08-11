@@ -11,7 +11,7 @@ Thank you for using the Chinese dictionary program!
 ### [字典程序：下载最新版本](https://mixiaozai.lanzouq.com/iVli014avwze)  
 ### [字典程序：汉语使用条款]()
 ### [字典程序：汉语更新日志](Chinese_dictionary_update)
-### [返回米小仔工作室:软件产品](Software)
+### [返回米小仔工作室：软件产品](Software)
 ------------
 
 
