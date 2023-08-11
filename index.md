@@ -3,7 +3,7 @@
 **网站主页** **[软件产品](Software)** **[工作室快讯](News_flash)** **[关于我们](About_us)** 
 
 ------------
-### - 最近更新:字典程序 Chinese dictionary [[米小仔工作室:软件产品]](Software)
+### - 最近更新:字典程序 Chinese dictionary [[米小仔工作室：软件产品]](Software)
 
 ------------
 ### 米小仔工作室快讯：[欢迎来到Github官方网站！](News_1)
