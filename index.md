@@ -19,3 +19,4 @@
 ------------
 #### 官方网站维护："Buck Qian"
 #### [另外平台网站：洛谷官方网站](https://www.luogu.com.cn/paste/6luhnc4t)
+#### [(Is your language English? You can visit the official English website of Mi Xiaozai Studio)](index_EN)
