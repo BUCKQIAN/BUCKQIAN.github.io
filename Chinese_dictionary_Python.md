@@ -1,6 +1,6 @@
 # 字典程序(Py Addition)
 
-#### 更新时间：2023/7/20
+#### 更新时间：2023/7/21
 #### （除了比C++版本UI差，其他都很厉害！————Buck Qian）
 
 ```python
@@ -99,14 +99,27 @@ def main_screen():
 当前版本号:{version}
 请您输入模式:""",end="")
     inp = input().lower()
-    if inp in ["s", "d", "f", "g", "h", "j"]:
-        mode = {"s": search, "d": more, "f": log, "g": dev, "h": settings, "j": command_help}
+    if inp in ["s", "d", "f", "g", "h"]:# j
+        mode = {"s": search, "d": more, "f": log, "g": dev, "h": settings}
         return mode[inp]
-    elif inp.startswith("/"):
+    elif inp.startswith("/") or inp == "j":
         if inp == "/debug":
             return F3
-        elif inp == "/help":
-            return command_help
+        elif inp.startswith("/help") or inp == "j":
+            try:
+                input(help_dir[inp[6:]])
+            except:
+                try:
+                    if inp[5] == " ":
+                        input("你要查找的指令未找到")
+                    else:
+                        input("你在输入一个指令吗？如果是，请使用正确的指令格式")
+                        main_screen()()
+                except:
+                    for i in help_dir:
+                        print(help_dir[i])
+                    input()
+            main_screen()()
         elif inp == "/back":
             clear_screen()
             quit()
@@ -120,6 +133,7 @@ def main_screen():
 def search():
     clear_screen()
     global tone
+
     with open(path,"r", encoding="utf-8") as f:
         text = f.readlines()
     while True:
@@ -130,10 +144,11 @@ def search():
         if inp.startswith("/"):
             if inp[:4] == "/all":
                 cnt = 0
+                from math import ceil
                 for i in range(1, len(text), 2):
                     print("".join(map(lambda _: text[i - 1][_], range(len(text[i - 1]) - 1))), end = "\t")
                     print(text[i], end = "")
-                    cnt += len(text[i]) // 2
+                    cnt += ceil(len(text[i]) / 2)
                 input(f"\n\n共收录{cnt}字\n")
             elif inp[:5] == "/help":
                 try:
@@ -160,21 +175,15 @@ def search():
                 input(text[i + 1])
         clear_screen()      
 def search_help(inp:str):
-    help_list = ["/all\t输出所有收录字", "/back\t退出", "/help\t显示此列表,单个空格后加指令(不加\"/\")可以精确查找", "/tone\t在查字模式输入切换声调模式(nǐ hǎo => ni3 ha3o)"]
-    if inp[6:9] == "all":
-        input(help_list[0])
-    elif inp[6:10] == "back":
-        input(help_list[1])
-    elif inp[6:10] == "help":
-        input(help_list[2])
-    elif inp[6:10] == "tone":
-        input(help_list[3])
-    elif len(inp) > 6:
-        input("你要查找的指令未找到")
-    else:
-        for i in help_list:
-            print(i)
-        input()
+    try:
+        input(help_dir[inp[6:]])
+    except:
+        if len(inp) > 6:
+            input("你要查找的指令未找到")
+        else:
+            for i in help_dir:
+                print(help_dir[i])
+            input()
 
 def more():
     clear_screen()
@@ -224,6 +233,7 @@ def log():
 [2023/7/12 15:58] 与C++版本同步更新
 [2023/7/19 14:52] 更新字典附件
 [2023/7/20 19:45] 加强查字模式指令(/help)
+[2023/7/21 10:48] 加强主页指令(/help)
 """)
     main_screen()()
 def dev():
@@ -246,15 +256,6 @@ def settings():
             print(line, end="")
     input("\n\n目前没有可更改选项\n")
     main_screen()()
-def command_help():
-    clear_screen()
-    input("""/all\t在查字模式输入后显示所有收录字
-/back\t退出
-/help\t显示此列表
-/tone\t在查字模式输入切换声调模式(nǐ hǎo => ni3 ha3o)
-/debug\t在主页输入切换更多信息显示
-""")
-    main_screen()()
 def F3():
     global debug
     if debug:
@@ -264,11 +265,16 @@ def F3():
     debug = bool(int(debug) - 1)
     main_screen()()
 
-global path, path_tone, version, debug, tone
+global path, path_tone, version, debug, tone, help_dir
 
+help_dir = {"all" : "/all\t输出所有收录字",
+            "back": "/back\t退出",
+            "help": "/help\t显示此列表,单个空格后加指令(不加\"/\")可以精确查找",
+            "tone": "/tone\t在查字模式输入切换声调模式(nǐ hǎo => ni3 ha3o)",
+            "debug":"/debug\t在主页输入切换更多信息显示"}
 path = "D:\py_addition_data.txt"
 path_tone = "D:\py_addition_data_tone.txt"
-version = "alpha0.15"
+version = "alpha0.16"
 debug = False
 tone = False
 language = "chinese"
@@ -278,4 +284,5 @@ initialize_dictionary_file()
 main_screen()()
 
 #作者电话:18657216879
+#https://www.luogu.com.cn/chat?uid=767126
 ```
