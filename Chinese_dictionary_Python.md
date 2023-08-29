@@ -286,3 +286,4 @@ main_screen()()
 #作者电话:18657216879
 #https://www.luogu.com.cn/chat?uid=767126
 ```
+### 返回[米小仔工作室：软件产品](https://buckqian.github.io/Software)
