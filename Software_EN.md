@@ -15,4 +15,4 @@
 ### Download Instructions 3 : If A Password Is Required,The Password Is "MXZ6"
 ------------
 ### [Back to Mi Xiaozai Studio's English Official Website:Home](https://buckqian.github.io/index_EN)
-#### [(Is your language Simplified Chinese? You can visit the official Simplified Chinese website of Mi Xiaozai Studio)](Software)
+#### [（你的语言是简体中文吗？您可以访问米小仔工作室的汉语官方网站）](Software)
