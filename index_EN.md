@@ -19,3 +19,4 @@
 ------------
 #### Website Maintainer："Buck Qian"
 #### [Mi Xiaozai Studio English official website (LUOGU)](https://www.luogu.com.cn/paste/e7o8034n)
+#### [(你的语言是简体中文吗？您可以访问米小仔工作室的官方汉语网站)](index)
