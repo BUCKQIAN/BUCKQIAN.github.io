@@ -6,4 +6,4 @@
 
 #### [米小仔工作室快讯：欢迎来到Github官方网站！](News_1) 
 
-##### [(Is your language English? You can visit the official English website of Mi Xiaozai Studio)](About_us_EN)
+##### [(Is your language English? You can visit the official English website of Mi Xiaozai Studio)](News_flash_EN)
