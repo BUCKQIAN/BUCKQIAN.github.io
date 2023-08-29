@@ -15,4 +15,4 @@
 
 **Worker[loser]:QuietlyHark <br /> Java Usage Ability: Beginner , Python3 Usage Ability: Beginners**
 
-#### [（你的语言是简体中文吗？您可以访问米小仔工作室的官方中文网站）](About_us)
+#### [（你的语言是简体中文吗？您可以访问米小仔工作室的官方汉语网站）](About_us)
