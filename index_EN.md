@@ -1,15 +1,15 @@
 # Mi Xiaozai Studio English Official Website
 
-**Home** **[Software](Software)** **[News](News_flash)** **[About us](About_us)** 
+**Home** **[Software](Software_EN)** **[News](News_flash_EN)** **[About us](About_us_EN)** 
 
 ------------
-### - Recent Update:字典程序 Chinese dictionary [[Mi Xiaozai Studio:Software]](Software)
+### - Recent Update:字典程序 Chinese dictionary [[Mi Xiaozai Studio:Software]](Software_EN)
 
 ------------
-### Mi Xiaozai Studio News：[Welcome to the official website of Mi Xiaozai Studio on Github!](News_1)
+### Mi Xiaozai Studio News：[Welcome to the official website of Mi Xiaozai Studio on Github!](News_1_EN)
 
 ------------
-### About [Member of Mi Xiaozai Studio......](About_us)
+### About [Member of Mi Xiaozai Studio......](About_us_EN)
 
 ------------
 
