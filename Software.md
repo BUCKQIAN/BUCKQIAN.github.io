@@ -14,4 +14,4 @@
 ### 下载提示2：下载密码为"MXZ6"
 ------------
 ### [返回米小仔工作室：网站主页](https://buckqian.github.io/index)
-#### [(Is your language English? You can visit the official English website of Mi Xiaozai Studio)](Software_EN)
+#### [（你的语言是简体中文吗？您可以访问米小仔工作室的官方英文网站）](Software)
