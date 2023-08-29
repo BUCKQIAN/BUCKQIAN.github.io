@@ -14,4 +14,4 @@
 ### Download Instructions 2 : The Download Page Is Chinese And You Can Use Google Translate or Microsoft Translate or Other Translation Software
 ### Download Instructions 3 : If A Password Is Required,The Password Is "MXZ6"
 ------------
-### Back to [Mi Xiaozai Studio's English Official Website:Home](https://buckqian.github.io/index_EN)
+### [Back to Mi Xiaozai Studio's English Official Website:Home](https://buckqian.github.io/index_EN)
