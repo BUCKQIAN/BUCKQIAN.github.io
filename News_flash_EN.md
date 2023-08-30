@@ -1,4 +1,4 @@
-# Mi Xiaozai Studio:News[Mi Xiaozai Studio's Official Website On Github]
+# Mi Xiaozai Studio:News[MXZS's Official Website On Github]
  
 **[Home](index_EN)** **[Software](Software_EN)** **News** **[About us](About_us_EN)** 
 
