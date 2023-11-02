@@ -1,4 +1,4 @@
-# 米小仔工作室：软件产品
+# LIB临时工作室：软件产品
 **[网站主页](index)** **软件产品** **[工作室快讯](News_flash)** **[关于我们](About_us)**
 
 ------------
@@ -13,5 +13,5 @@
 ### 下载提示1：历代软件因为是自主制作，没有发布者(开发者)标签。
 ### 下载提示2：下载密码为"MXZ6"
 ------------
-### [返回米小仔工作室：网站主页](https://buckqian.github.io/index)
+### [返回LIB临时工作室：网站主页](https://buckqian.github.io/index)
 #### [(Is your language English? You can visit the official English website of Mi Xiaozai Studio)](Software_EN)
