@@ -1,7 +1,7 @@
 # 字典程序(Py Addition)
 
 #### 更新时间：2023/7/21
-#### （除了比C++版本UI差，其他都很厉害！————Buck Qian）
+#### （除了比C++版本UI差，其他都很厉害！————Xiaozai Mi）
 
 ```python
 import os
@@ -286,4 +286,4 @@ main_screen()()
 #作者电话:18657216879
 #https://www.luogu.com.cn/chat?uid=767126
 ```
-### 返回[米小仔工作室：软件产品](https://buckqian.github.io/Software)
+### 返回[LIB临时工作室：软件产品](https://buckqian.github.io/Software)
