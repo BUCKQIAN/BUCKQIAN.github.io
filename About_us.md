@@ -15,4 +15,4 @@
 
 **团队神秘人（就是信息未知的）:QuietlyHark <br /> Java能力:我不知道 Python3能力:我不知道**
 
-#### [(Is your language English? You can visit the official English website of Mi Xiaozai Studio)](About_us_EN)
+#### [(Is your language English? You can visit the official English website of LIB Provisional Studio)](About_us_EN)
