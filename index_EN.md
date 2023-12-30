@@ -1,4 +1,4 @@
-# Mi Xiaozai Studio English Official Website
+# LIB Provisional Studio English Official Website
 
 **Home** **[Software](Software_EN)** **[News](News_flash_EN)** **[About us](About_us_EN)** 
 
