@@ -3,13 +3,13 @@
 **Home** **[Software](Software_EN)** **[News](News_flash_EN)** **[About us](About_us_EN)** 
 
 ------------
-### - Recent Update:字典程序 Chinese dictionary [[Mi Xiaozai Studio:Software]](Software_EN)
+### - Recent Update:字典程序 Chinese dictionary [[LIB Provisional Studio:Software]](Software_EN)
 
 ------------
-### Mi Xiaozai Studio News：[Welcome to the official website of Mi Xiaozai Studio on Github!](News_1_EN)
+### LIB Provisional Studio News：[Welcome to the official website of LIB Provisional Studio on Github!](News_1_EN)
 
 ------------
-### About [Member of Mi Xiaozai Studio......](About_us_EN)
+### About [Member of LIB Provisional Studio......](About_us_EN)
 
 ------------
 
@@ -18,5 +18,5 @@
 
 ------------
 #### Website Maintainer："Buck Qian"
-#### [Mi Xiaozai Studio English official website (LUOGU)](https://www.luogu.com.cn/paste/e7o8034n)
-#### [(你的语言是简体中文吗？您可以访问米小仔工作室的官方汉语网站)](index)
+#### LIB Provisional Studio English official website (LUOGU)](https://www.luogu.com.cn/paste/e7o8034)
+#### [(你的语言是简体中文吗？您可以访问LIB临时工作室的官方汉语网站)](index)
