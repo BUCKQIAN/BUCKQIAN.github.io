@@ -286,4 +286,4 @@ main_screen()()
 #Author's phone number:18657216879
 #https://www.luogu.com.cn/chat?uid=767126
 ```
-### [Back to Mi Xiaozai Studio:Software](https://buckqian.github.io/Software) 
+### [Back to LIB Provisional Studio:Software](https://buckqian.github.io/Software) 
