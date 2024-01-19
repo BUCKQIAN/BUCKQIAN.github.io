@@ -6,7 +6,7 @@
 ##### Note: This card game was not created by LAS students, and the LAS used in the game refers to the source of inspiration at that time
 ------------
 
-### [The "Lanrun Angel School" Solitaire Game-2022[July 5, 2022]](https://mixiaozai.lanzoum.com/LAS-Solitaire-Game-2022-EN)
-### [The "Lanrun Angel School" Solitaire Game-2023[July 5, 2023]](https://mixiaozai.lanzoum.com/LAS-Solitaire-Game-2023-EN)
+### [The LAS Solitaire Game-2022[July 5, 2022]](https://mixiaozai.lanzoum.com/LAS-Solitaire-Game-2022-EN)
+### [The LAS Solitaire Game-2023[July 5, 2023]](https://mixiaozai.lanzoum.com/LAS-Solitaire-Game-2023-EN)
 
 ### [Back to LIB Provisional Studio:Software](https://buckqian.github.io/Software) 
