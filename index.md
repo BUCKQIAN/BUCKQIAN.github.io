@@ -18,5 +18,5 @@
 
 ------------
 #### 官方网站维护："Buck Qian"
-#### [另外平台网站：洛谷官方网站](https://www.luogu.com.cn/paste/)
+#### [另外平台网站：洛谷官方网站 停用](https://www.luogu.com.cn/paste/)
 #### [(Is your language English? You can visit the official English website of  Studio)](index_EN)
