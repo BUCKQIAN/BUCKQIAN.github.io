@@ -20,4 +20,4 @@
 #### 官方网站维护："Buck Qian"
 #### [另外平台网站：洛谷官方网站 现已停用](https://www.luogu.com.cn/paste/)
 
-##### 简体中文（中国大陆） | 繁体中文（香港特别行政区、台湾省） | **English(United States and United Kingdom)**
+##### [简体中文（中国大陆）](https://buckqian.github.io/index) | [繁体中文（香港特别行政区、台湾省）](https://buckqian.github.io/index_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/index_EN)**
