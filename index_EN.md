@@ -18,5 +18,5 @@
 
 ------------
 #### Website Maintainer："Buck Qian"
-#### LIB Provisional Studio English official website (LUOGU)](https://www.luogu.com.cn/paste/e7o8034)
+#### [LIB Provisional Studio English official website (LUOGU) Closed ](https://www.luogu.com.cn/paste/e7o8034)
 #### [(你的语言是简体中文吗？您可以访问LIB临时工作室的官方汉语网站)](index)
