@@ -19,4 +19,4 @@
 ------------
 #### 官方网站维护："Buck Qian"
 #### [另外平台网站：洛谷官方网站 停用](https://www.luogu.com.cn/paste/)
-#### [(Is your language English? You can visit the official English website of  Studio)](index_EN)
+#### 简体中文（中国大陆） | 繁体中文（香港特别行政区、台湾省） | English(United States and United Kingdom)
