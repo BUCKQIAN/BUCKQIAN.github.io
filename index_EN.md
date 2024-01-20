@@ -19,4 +19,4 @@
 ------------
 #### Website Maintainer："Buck Qian"
 #### [LIB Provisional Studio English official website (LUOGU) Closed ](https://www.luogu.com.cn/paste/e7o8034)
-##### [简体中文（中国大陆）](https://buckqian.github.io/index) | [繁体中文（香港特别行政区、台湾省）](https://buckqian.github.io/index_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/index_EN)
+###### [简体中文（中国大陆）](https://buckqian.github.io/index) | [繁體中文（香港特別行政區、臺灣省）](https://buckqian.github.io/index_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/index_EN)**
