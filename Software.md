@@ -16,4 +16,4 @@
 ### 下载提示2：下载密码为"MXZ6"
 ------------
 ### [返回LIB临时工作室：网站主页](https://buckqian.github.io/index)
-#### [(Is your language English? You can visit the official English website of LIB Provisional Studio)](Software_EN)
+###### [简体中文（中国大陆）](https://buckqian.github.io/Software) | [繁體中文（香港特別行政區、臺灣省）](https://buckqian.github.io/Software_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/Software_EN)**
