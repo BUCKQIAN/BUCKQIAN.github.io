@@ -15,6 +15,6 @@
 ### Download Instructions 2 : The Download Page Is Chinese And You Can Use Google Translate or Microsoft Translate or Other Translation Software
 ### Download Instructions 3 : If A Password Is Required,The Password Is "MXZ6"
 ------------
-### [Back to LIB Provisional Studio's English Official Website:Home](https://buckqian.github.io/index_EN)
+### [Back to LIB Provisional Studio's English Official Website:Home](index_EN)
 ###### [简体中文（中国大陆）](https://buckqian.github.io/Software) | [繁體中文（香港特別行政區、臺灣省）](https://buckqian.github.io/Software_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/Software_EN)**
 
