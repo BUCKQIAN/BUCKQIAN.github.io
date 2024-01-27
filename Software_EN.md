@@ -16,4 +16,5 @@
 ### Download Instructions 3 : If A Password Is Required,The Password Is "MXZ6"
 ------------
 ### [Back to LIB Provisional Studio's English Official Website:Home](https://buckqian.github.io/index_EN)
-#### [（你的语言是简体中文吗？您可以访问LIB临时工作室的汉语官方网站）](Software)
+###### [简体中文（中国大陆）](https://buckqian.github.io/Software) | [繁體中文（香港特別行政區、臺灣省）](https://buckqian.github.io/Software_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/Software_EN)**
+
