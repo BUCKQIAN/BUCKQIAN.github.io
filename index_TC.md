@@ -17,4 +17,4 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;——Buck Qian的名言
 #### 官方網站維護：“Buck Qian”
 #### [另外平台網站：洛谷官方網站 現已停用](https://www.luogu.com.cn/paste/)
-###### [简体中文（中国大陆）](https://buckqian.github.io/index) | [繁體中文（香港特別行政區、臺灣省）](https://buckqian.github.io/index_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/index_EN)**
+###### [简体中文（中国大陆）](https://buckqian.github.io/index) | [繁體中文（香港特別行政區、臺灣省）【沒有翻譯完成！】](https://buckqian.github.io/index_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/index_EN)**
