@@ -17,4 +17,4 @@
 ------------
 ### [返回LIB臨時工作室：網站主頁](index_TC)
  
-###### [简体中文（中国大陆）](https://buckqian.github.io/Software) | [繁體中文（香港特別行政區、臺灣省）](https://buckqian.github.io/Software_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/Software_EN)**
+###### [简体中文（中国大陆）](https://buckqian.github.io/Software) | [繁體中文（香港特別行政區、臺灣省）【沒有翻譯完成！】](https://buckqian.github.io/Software_TC) | **[English(United States and United Kingdom)](https://buckqian.github.io/Software_EN)**
