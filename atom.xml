@@ -6,7 +6,7 @@
   <link href="http://buckqian.github.io/atom.xml" rel="self"/>
   
   <link href="http://buckqian.github.io/"/>
-  <updated>2024-06-30T08:25:39.211Z</updated>
+  <updated>2024-07-01T08:29:52.506Z</updated>
   <id>http://buckqian.github.io/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于创建个人博客教程</title>
+    <link href="http://buckqian.github.io/2024/07/01/%E5%85%B3%E4%BA%8E%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/"/>
+    <id>http://buckqian.github.io/2024/07/01/%E5%85%B3%E4%BA%8E%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/</id>
+    <published>2024-07-01T07:51:19.000Z</published>
+    <updated>2024-07-01T08:29:52.506Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;在Github-Page部署免费、好用的博客&quot;&gt;&lt;a href=&quot;#在Github-Page部署免费、好用的博客&quot; class=&quot;headerlink&quot; title=&quot;在Github Page部署免费、好用的博客&quot;&gt;&lt;/a&gt;在Github</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="http://buckqian.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>欢迎来到我的第一篇博客！</title>
     <link href="http://buckqian.github.io/2024/06/30/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%81/"/>
     <id>http://buckqian.github.io/2024/06/30/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%81/</id>
     <published>2024-06-30T04:00:00.000Z</published>
-    <updated>2024-06-30T08:25:39.211Z</updated>
+    <updated>2024-07-01T07:52:55.310Z</updated>
     
     
       
@@ -34,6 +57,8 @@
     
     
     
+    
+    <category term="介绍" scheme="http://buckqian.github.io/tags/%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
